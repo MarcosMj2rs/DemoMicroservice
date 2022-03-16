@@ -1,0 +1,5 @@
+﻿Se for add um novo Web site, add o novo host em orquestrador:
+
+C:\Projetos\DemoMicroservice\docker-compose.yml
+
+alterando a porta, neste exemplo temos a 5000:80, seria a 5001
